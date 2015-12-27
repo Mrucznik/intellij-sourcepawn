@@ -48,7 +48,7 @@
         OP_INC="++"
         OP_DEC="--"
 
-        // logical opeartors
+        // logical operators
         OP_OR="||"
         OP_AND="&&"
         OP_NOT="!"
